@@ -1,4 +1,2 @@
-##This is a Markdown file
-*one
-*two
-*three
+## This is a Markdown file
+
